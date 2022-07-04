@@ -41,7 +41,7 @@ It works on two modes that can be operated using switches.
 ![here](flowchart.png)
 
 ## CIRCUIT BLUEPRINT 
-![here](Power Circuit.png)
+![here](powercircuit.png)
 ![here](circuitfinal.png)
 
 
