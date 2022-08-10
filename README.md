@@ -41,27 +41,27 @@ It works on two modes that can be operated using switches.
 ![here](images/flowchartt.png)
 
 ## CIRCUIT BLUEPRINT 
-![here]((images/powercircuitt.png)
-![here]((images/circuitfinalj.png)
+![here](images/powercircuitt.png)
+![here](images/circuitfinalj.png)
 
 
 ## HARDWARE DEVICE
-![here]((images/IMG_20220810_133745.jpg)  
+![here](images/IMG_20220810_133745.jpg)  
 
           
           
 
 ## PRODUCT OPERATION SCREENSHOTS
- ![here]((images/IMG_20220810_134102.jpg) 
- ![here]((images/IMG_20220810_134628.jpg) 
+ ![here](images/IMG_20220810_134102.jpg) 
+ ![here](images/IMG_20220810_134628.jpg) 
  
  ## OUTPUT
  ### Data in Web Page
- ![here]((images/ss1.png) 
- ![here]((images/ss2.png) 
+ ![here](images/ss1.png) 
+ ![here](images/ss2.png) 
  ### Data in Spreadsheet
- ![here]((images/ss3.png) 
+ ![here](images/ss3.png) 
  ### Panic Mail 
- ![here]((images/ss4.png) 
+ ![here](images/ss4.png) 
  
 
