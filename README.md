@@ -56,9 +56,9 @@ It works on two modes that can be operated using switches.
  ![here](IMG_20220810_134628.jpg) 
  
  ## OUTPUT
- ![here](Screenshot 2022-08-10 162025.png) 
- ![here](Screenshot 2022-08-10 162109.png) 
- ![here](Screenshot 2022-08-10 162131.png) 
- ![here](Screenshot 2022-08-10 162212.png) 
+ ![here](ss1.png) 
+ ![here](ss2.png) 
+ ![here](ss3.png) 
+ ![here](ss4.png) 
  
 
