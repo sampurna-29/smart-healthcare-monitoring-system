@@ -56,9 +56,12 @@ It works on two modes that can be operated using switches.
  ![here](IMG_20220810_134628.jpg) 
  
  ## OUTPUT
+ ### Data in Web Page
  ![here](ss1.png) 
  ![here](ss2.png) 
+ ### Data in Spreadsheet
  ![here](ss3.png) 
+ ### Panic Mail 
  ![here](ss4.png) 
  
 
