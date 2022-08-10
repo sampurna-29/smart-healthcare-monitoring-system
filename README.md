@@ -47,18 +47,11 @@ It works on two modes that can be operated using switches.
 
 ## HARDWARE DEVICE
 ![here](IMG_20220810_133745.jpg)  
-![here](pictures/picnn2.jpeg)   
-![here](pictures/pic3.jpg) 
+
           
           
 
 ## PRODUCT OPERATION SCREENSHOTS
- ![here](pictures/P1.jpeg) 
- ![here](pictures/P2.jpeg) 
- ![here](pictures/P3.jpeg) 
- ![here](pictures/P4.jpeg) 
- ![here](pictures/P5.jpeg) 
- ![here](pictures/P6.jpeg) 
- ![here](pictures/P7.jpeg) 
- ![here](pictures/P8.jpeg) 
+ ![here](IMG_20220810_134102.jpg) 
+ ![here](IMG_20220810_134628.jpg) 
 
