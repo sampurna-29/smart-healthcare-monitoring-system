@@ -38,11 +38,11 @@ It works on two modes that can be operated using switches.
  On Pressing the Button 2 The device goes in ECG Mode in this it measures the value of ecg for a continous 1 minute and displays all ecg values to the lcd screen as well as send all the data to thinkspeak cloud and plots a ecg graph on thinkspeak.
 
 ## FLOW CHART
-![here](flowchart_(1).png)
+![here](flowchartt.png)
 
 ## CIRCUIT BLUEPRINT 
-![here](powercircuit.png)
-![here](circuitfinal.png)
+![here](powercircuitt.png)
+![here](circuitfinalj.png)
 
 
 ## HARDWARE DEVICE
