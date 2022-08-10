@@ -46,7 +46,7 @@ It works on two modes that can be operated using switches.
 
 
 ## HARDWARE DEVICE
-![here](pictures/pic1.jpeg)  
+![here](IMG_20220810_133745.jpg)  
 ![here](pictures/picnn2.jpeg)   
 ![here](pictures/pic3.jpg) 
           
