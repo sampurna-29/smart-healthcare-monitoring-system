@@ -54,4 +54,11 @@ It works on two modes that can be operated using switches.
 ## PRODUCT OPERATION SCREENSHOTS
  ![here](IMG_20220810_134102.jpg) 
  ![here](IMG_20220810_134628.jpg) 
+ 
+ ## OUTPUT
+ ![here](Screenshot 2022-08-10 162025.png) 
+ ![here](Screenshot 2022-08-10 162109.png) 
+ ![here](Screenshot 2022-08-10 162131.png) 
+ ![here](Screenshot 2022-08-10 162212.png) 
+ 
 
